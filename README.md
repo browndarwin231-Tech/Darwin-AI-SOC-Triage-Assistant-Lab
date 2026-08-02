@@ -201,7 +201,7 @@ The unknown result demonstrates that AI-generated MITRE ATT&CK mappings must be 
 
 ![AI SOC Triage Risk Analysis] (screenshots/01-AI-SOC-Triage-Risk-Analysis.png)
 
-The dashboard assigned the alert a **Medium** severity and a risk score of **70**.
+![AI SOC Triage Risk Analysis](screenshots/01-AI-SOC-Triage-Risk-Analysis.png)
 
 It also displayed:
 
@@ -215,9 +215,7 @@ It also displayed:
 
 ### 2. AI SOC Triage Raw Alert Review
 
-![AI SOC Triage Raw Alert Review] (screenshots/02-AI-SOC-Triage-Raw-Alert-Review.png)
-
-The raw alert view confirmed that the dashboard analyzed the correct evidence, including:
+![AI SOC Triage Raw Alert Review](screenshots/02-AI-SOC-Triage-Raw-Alert-Review.png)
 
 - Alert ID `SOC-1001`
 - Source IP `203.0.113.1`
